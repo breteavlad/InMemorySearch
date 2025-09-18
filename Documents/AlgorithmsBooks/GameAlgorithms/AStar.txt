@@ -1,0 +1,2 @@
+AStar is a algorithm that is based on euler heuristic used for searching, by autocorrecting
+the best path.

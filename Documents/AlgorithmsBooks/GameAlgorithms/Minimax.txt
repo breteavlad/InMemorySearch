@@ -1,0 +1,2 @@
+Minimax is a self improving algorithm that "rewards" the algorithm for choosing the best
+option.
